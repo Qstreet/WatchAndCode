@@ -67,12 +67,15 @@ console.log('\n', appObjects);
 - Handlebars
 - Router, Routing director.js
 - splice()
+- bind() and 'this'
+- event listeners / handlers
 
 
 ## Util
 - uuid
 - pluralize
 - localStorage
+
 
 ## App
 - init
